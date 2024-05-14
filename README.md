@@ -1,3 +1,15 @@
+<meta property="og:title" content="CHECO" />
+<meta property="og:url" content="https://dahhnym.github.io/checo/" />
+<meta property="og:image" content="%PUBLIC_URL%/ogcard-checo.png" />
+<meta
+      property="og:image:alt"
+      content="Checo logo which symbolizes spiking graph"
+/>
+<meta
+      property="og:description"
+      content="Easy and convenient way to check real-time cryptocurrency price change along with the live charts"
+/>
+
 # Archiving
 배운것들을 아카이빙합니다.
 
