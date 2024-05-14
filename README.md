@@ -56,7 +56,7 @@
     </td>
     <td align="center">
         <a href="https://github.com/wisdom08">
-            <div>원</div>
+            <div>윈</div>
         </a>
     </td>
     <td align="center">
