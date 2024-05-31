@@ -85,7 +85,7 @@
 
 | 진행 여부 |   주차   | 기간                    | 주제 |
 |:-----:|:--------:|-----------------------|---|
-|   ✅    |   1주차   | 04.24 ~ 04.29        | Flutter 개발 환경 설정 |
+|   ✅   |   1주차   | 04.24 ~ 04.29        | Flutter 개발 환경 설정 |
 |   ✅   |   2주차   | 04.30 ~ 05.07         | 다트 공부 |
-|   ✅  |   3주차   | 05.08 ~ 05.13          | [다트 문제 만들기](https://github.com/1-km/Archiving/tree/main/week4/quiz) / [10분간 PT](https://github.com/1-km/Archiving/tree/main/week4/presentation) |
-|       |   4주차   | 05.14 ~ 05.21          | Stateful/less Widget 예제 만들고 설명 및 일기장 만들기(선택)|
+|   ✅   |   3주차   | 05.08 ~ 05.13          | [다트 문제 만들기](https://github.com/1-km/Archiving/tree/main/week4/quiz) / [10분간 PT](https://github.com/1-km/Archiving/tree/main/week4/presentation) |
+|   ✅   |   4주차   | 05.14 ~ 05.21          | Stateful/less Widget 예제 만들고 설명 및 일기장 만들기(선택)|
